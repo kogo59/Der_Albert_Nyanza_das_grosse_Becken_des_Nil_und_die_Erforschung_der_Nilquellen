@@ -106,7 +106,7 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 5. [Häuptling von Kytsch und Tochter.](ch003.xhtml#b056)
 6. [Ein verhungernder Knabe des Kytschstammes, bettelnd.](ch003.xhtml#b057)
 7. [Knaben, welche gebettelt haben.](ch003.xhtml#b059)
-8. Ein Wohnsitz des Baristammes. — Die gewöhnliche Stellung der Männer
+8. [Ein Wohnsitz des Baristammes. — Die gewöhnliche Stellung der Männer.](ch004.xhtml#b068)
 9. Der Häuptling Legge
 10. Latuka'sche Grobschmiede
 11. Commoro, wie er zum Kampfe springt

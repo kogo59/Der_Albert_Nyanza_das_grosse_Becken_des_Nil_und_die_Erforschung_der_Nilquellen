@@ -1879,7 +1879,10 @@ freuten sich der Freiheit, im Freien weiden zu können.
 
 :::
 
-S.92
+:::: align-center
+****
+::::
+
 
 
 #### **Anmerkungen** {.break-before .unnumbered}
