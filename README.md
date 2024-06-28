@@ -1,6 +1,6 @@
 # Der Albert Nyanza das große Becken des Nil und die Erforschung der Nilquellen
 
-<img align="right" height="150" src="https://github.com/kogo59/Fernand_Mendez_Pintos_abenteuerliche_Reise/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Der_Albert_Nyanza_das_grosse_Becken_des_Nil_und_die_Erforschung_der_Nilquellen/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Der Albert Nyanza das große Becken des Nil und die Erforschung_der Nilquellen".
 
