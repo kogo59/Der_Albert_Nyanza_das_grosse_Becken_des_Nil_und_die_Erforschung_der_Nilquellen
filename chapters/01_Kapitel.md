@@ -1,5 +1,4 @@
-# <small>Erstes Kapitel.</small><br />Die Expedition. {#erstes .unnumbered}
-
+# <small>Erstes Kapitel.</small><br /> Die Expedition. {#erstes .unnumbered}
 
 ::: justified
 

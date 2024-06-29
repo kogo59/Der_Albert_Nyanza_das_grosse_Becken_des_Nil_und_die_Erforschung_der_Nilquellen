@@ -1,4 +1,4 @@
-# <small>Zweites Kapitel.</small><br />Schlechte Aufnahme in Gondokoro. {#zwei .unnumbered}
+# <small>Zweites Kapitel.</small><br /> Schlechte Aufnahme in Gondokoro. {#zwei .unnumbered}
 
 
 ::: justified
