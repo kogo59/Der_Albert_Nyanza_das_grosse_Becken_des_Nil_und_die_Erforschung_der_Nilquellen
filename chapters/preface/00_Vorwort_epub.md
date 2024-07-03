@@ -108,11 +108,11 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 7. [Knaben, welche gebettelt haben.](ch003.xhtml#b059)
 8. [Ein Wohnsitz des Baristammes. — Die gewöhnliche Stellung der Männer.](ch004.xhtml#b068)
 9. [Der Häuptling Leggé.](ch006.xhtml#b124)
-10. Latuka'sche Grobschmiede
-11. Commoro, wie er zum Kampfe springt
-12. Bokké — Weib Moy's, Häuptlings von Latula
-13. Kopf eines Enterichs
-14. Karmoisinrothköpfige spornflügelige Gans
+10. [Latuka'sche Grobschmiede.](ch007.xhtml#b142)
+11. [Commoro, wie er zum Kampfe springt.](ch007.xhtml#b147)
+12. [Bokké — Weib Moy's, Häuptlings von Latuka.](ch007.xhtml#b150)
+13. [Kopf eines Enterichs.](ch007.xhtml#b164)
+14. [Karmoisinrothköpfige spornflügelige Gans.](ch007.xhtml#b165)
 15. Der Leichentanz der Latukas
 16. Die letzte Ladung
 17. Kopfputz der Obbo (^1^) und Schoggo (^2^)
