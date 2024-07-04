@@ -114,7 +114,7 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 13. [Kopf eines Enterichs.](ch007.xhtml#b164)
 14. [Karmoisinrothköpfige spornflügelige Gans.](ch007.xhtml#b165)
 15. [Der Leichentanz der Latukas.](ch008.xhtml#b168)
-16. Die letzte Ladung
+16. [Die letzte Ladung.](ch009.xhtml#b184)
 17. Kopfputz der Obbo (^1^) und Schoggo (^2^)
 18. Frauen von Obbo
 19. Katschiba's ältester Sohn

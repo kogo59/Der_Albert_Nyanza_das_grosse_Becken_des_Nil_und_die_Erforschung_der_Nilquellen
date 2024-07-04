@@ -59,7 +59,7 @@ Unterhaltung wurde dadurch etwas langweilig, indem die Vermittelung durch Bari
 und Latuka geschah.
 
 :::: { .wrap-100 }
-![Der Leichentanz der Latukas](Der_Albert_Nyanza_168.jpg "Der Leichentanz der Latukas"){#b168}
+![Der Leichentanz der Latukas.](Der_Albert_Nyanza_168.jpg "Der Leichentanz der Latukas."){#b168}
 ::::
 
 Der Häuptling Commoro (der „Löwe“) war einer der gescheidtesten und
