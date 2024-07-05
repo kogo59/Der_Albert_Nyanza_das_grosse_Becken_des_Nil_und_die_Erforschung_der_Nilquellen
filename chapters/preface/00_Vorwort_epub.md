@@ -115,11 +115,11 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 14. [Karmoisinrothköpfige spornflügelige Gans.](ch007.xhtml#b165)
 15. [Der Leichentanz der Latukas.](ch008.xhtml#b168)
 16. [Die letzte Ladung.](ch009.xhtml#b184)
-17. Kopfputz der Obbo (^1^) und Schoggo (^2^)
-18. Frauen von Obbo
-19. Katschiba's ältester Sohn
-20. Katschiba und seine Hebe auf einer Reise
-21. Einholung der Giraffen
+17. [Kopfputz der Obbo (1) und Schoggo (2).](ch010.xhtml#b210)
+18. [Frauen von Obbo.](ch010.xhtml#b214)
+19. [Katschiba's ältester Sohn.](ch010.xhtml#b217)
+20. [Katschiba und seine Hebe auf einer Reise.](ch010.xhtml#b225)
+21. [Einholung der Giraffen.](ch010.xhtml#b232)
 22. Der Kriegstanz in Obboo.
 23. Mehedéhet-Antilope
 24. Eingeborene von Lira (^1^) und Madi (^2^) im Lager zu Schoa...

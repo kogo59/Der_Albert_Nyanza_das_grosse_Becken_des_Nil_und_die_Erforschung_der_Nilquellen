@@ -4,7 +4,7 @@
 
 Das Land in der unmittelbaren Nähe von Latuka war versengt, da es eine Zeit lang
 nicht geregnet hatte. Die geographische Breite war 4° 35´ nördlich, die Länge
-320° 55´ östlich; die Regen hatten im Februar auf den etwa achtzehn Meilen
+32° 55´ östlich; die Regen hatten im Februar auf den etwa achtzehn Meilen
 entfernten Bergen an der Südseite des Thales begonnen. Jeden Tag schien ein
 Gewitter zu kommen; die schwarzen Wolken zogen sich vorbedeutungsvoll um die
 Spitze des Gebel Lafit herum über der Stadt zusammen, aber sie wurden stets von
