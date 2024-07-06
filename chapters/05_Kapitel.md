@@ -518,7 +518,7 @@ Volkshaufen umringten uns jetzt, erstaunt über die zwei Gegenstände von große
 Interesse — die Kameele und eine weiße Frau. Mich hielten sie für nichts
 Besonderes, da ich fast so braun wie ein Araber war.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Latuka'sche Grobschmiede.](Der_Albert_Nyanza_142.jpg "Latuka'sche Grobschmiede."){#b142}
 ::::
 
@@ -668,7 +668,7 @@ künstlichen Kopfputz ein höchst würdevolles und martialisches Aussehen. Kein
 Helm wird für vollständig gehalten, wenn er nicht eine Reihe Muschelgeldstücke
 enthält, die so um den Rand genäht werden, daß sie eine feste Kante bilden.
 
-:::: { .wrap-80 }
+:::: { .wrap-80  .caption}
 ![Commoro, wie er zum Kampfe springt.](Der_Albert_Nyanza_147.jpg "Commoro, wie er zum Kampfe springt."){#b147}
 ::::
 
@@ -766,7 +766,7 @@ entstanden ist, und reizt die Zunge, auf dem Ende zu spielen, was dem Stück ein
 wedelnde Bewegung giebt, die während der Unterhaltung unbeschreiblich spaßhaft
 ist.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Bokké — Weib Moy's, Häuptlings von Latuka.](Der_Albert_Nyanza_150.jpg "Bokké — Weib Moy's, Häuptlings von Latuka."){#b150}
 ::::
 
@@ -1219,7 +1219,7 @@ Sporn am Flügel, in welchem sie eine außerordentliche Kraft besitzt. Er wird a
 Vertheidigungswaffe zum Schlagen benutzt, wie der gespornte Flügel des
 Regenpfeifers.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Kopf eines Enterichs.](Der_Albert_Nyanza_164.jpg "Kopf eines Enterichs."){#b164}
 ::::
 
@@ -1240,7 +1240,7 @@ scheint von den Wilden sowohl wie von den Civilisirten angenommen zu werden, da�
 die Federn der Vögel die besondere Bestimmung haben, das menschliche Haupt zu
 schmücken.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Karmoisinrothköpfige spornflügelige Gans.](Der_Albert_Nyanza_165.jpg "Karmoisinrothköpfige spornflügelige Gans."){#b165}
 ::::
 

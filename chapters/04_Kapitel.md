@@ -688,7 +688,7 @@ verpallisadirten Dörfern auf den Berg; als sie auf die Ebene herabkamen,
 mischten sie sich unter die allgemeine Verwirrung. Das Gepäck wurde unter einem
 Baume aufgestapelt und eine Wache danebengestellt.
 
-:::: { .wrap-50 .float-left}
+:::: { .wrap-50 .float-left .caption}
 ![Der Häuptling Leggé.](Der_Albert_Nyanza_124.jpg "Der Häuptling Leggé."){#b124}
 ::::
 

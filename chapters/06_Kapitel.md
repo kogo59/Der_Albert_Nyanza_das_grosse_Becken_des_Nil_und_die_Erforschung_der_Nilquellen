@@ -58,7 +58,7 @@ nöthig; dies war ein geweckter Jüngling ungefähr von demselben Alter. Die
 Unterhaltung wurde dadurch etwas langweilig, indem die Vermittelung durch Bari
 und Latuka geschah.
 
-:::: { .wrap-100 }
+:::: { .wrap-100  .caption}
 ![Der Leichentanz der Latukas.](Der_Albert_Nyanza_168.jpg "Der Leichentanz der Latukas."){#b168}
 ::::
 
@@ -347,5 +347,4 @@ bei ihrem reinen Futter bleiben.
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^0600]: [Die Eingeborenen bringen das Feuer stets dadurch hervor, daß sie zwei Stöcke an einander reiben.
-]{.footnote}
+[^0600]: [Die Eingeborenen bringen das Feuer stets dadurch hervor, daß sie zwei Stöcke an einander reiben.]{.footnote}

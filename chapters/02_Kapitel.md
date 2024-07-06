@@ -49,7 +49,7 @@ Ankunft abzuwarten und bei ihrer Rückkehr mich derselben anzuschließen. Ihre
 Elfenbeinträger sollten auf der Rückreise mein Gepäck tragen und auf diese Weise
 die Rücken meiner Transportthiere schonen.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption }
 ![Ein Wohnsitz des Baristammes. — Die gewöhnliche Stellung der Männer.](Der_Albert_Nyanza_068.jpg "Ein Wohnsitz des Baristammes. — Die gewöhnliche Stellung der Männer."){#b068}
 ::::
 

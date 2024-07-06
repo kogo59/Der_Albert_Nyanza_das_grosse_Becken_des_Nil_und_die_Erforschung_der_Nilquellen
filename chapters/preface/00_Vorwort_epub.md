@@ -120,7 +120,7 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 19. [Katschiba's ältester Sohn.](ch010.xhtml#b217)
 20. [Katschiba und seine Hebe auf einer Reise.](ch010.xhtml#b225)
 21. [Einholung der Giraffen.](ch010.xhtml#b232)
-22. Der Kriegstanz in Obboo.
+22. [Der Kriegstanz in Obbo.](ch011.xhtml#b254)
 23. Mehedéhet-Antilope
 24. Eingeborene von Lira (^1^) und Madi (^2^) im Lager zu Schoa...
 25. Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei

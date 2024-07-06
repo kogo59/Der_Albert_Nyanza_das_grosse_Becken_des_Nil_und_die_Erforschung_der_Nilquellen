@@ -43,7 +43,7 @@ Hermann Costenoble<br />
 1868
 ::::
 
-:::: { .wrap-70 .break-after }
+:::: { .wrap-70 .break-after .caption }
 ![Die Murchison-Wasserfälle, vom Victoria-Nil oder Somerset-Fluß bis zum Niveau des Albert-Sees ungefähr 120 Fuß hoch.](Der_Albert_Nyanza_001.jpg "Die Murchison-Wasserfälle, vom Victoria-Nil oder Somerset-Fluß bis zum Niveau des Albert-Sees ungefähr 120 Fuß hoch."){#b001}
 ::::
 

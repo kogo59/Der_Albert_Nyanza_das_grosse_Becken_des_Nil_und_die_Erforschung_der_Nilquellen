@@ -1364,7 +1364,7 @@ Frau und Tochter einen Besuch ab; sie baten um Alles, was sie in Gestalt von
 Glasperlen und Armbändern sahen, lehnten aber ein Messer als nutzlos ab. Sie
 gingen mit ihren Geschenken vergnügt hinweg. 
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption}
 ![Nuehr-Eingeborene, die zu den Booten kommen.](Der_Albert_Nyanza_050.jpg "Nuehr-Eingeborene, die zu den Booten kommen."){#b050}
 ::::
 
@@ -1396,7 +1396,7 @@ Frauen tragen eine vom Hals herabhängende Tasche, offenbar um etwaige Geschenke
 die sie erhalten, aufzunehmen, denn Alles wird sofort eingesteckt. Cours
 Süd-Süd-Ost.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Dschoctian, Häuptling des Nuehrstammes.](Der_Albert_Nyanza_051.jpg "Dschoctian, Häuptling des Nuehrstammes."){#b051}
 ::::
 
@@ -1532,7 +1532,7 @@ eine lange und aufregende Jagd, da derselbe die Harpune mit fortnimmt und die
 Leine in ihrer ganzen Länge hinauszieht; sie schwimmen ihm dann nach, indem sie
 ihr Ende der Leine festhalten und ihn spielen lassen, bis er erschöpft ist.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Häuptling von Kytsch und Tochter.](Der_Albert_Nyanza_056.jpg "Häuptling von Kytsch und Tochter."){#b056}
 ::::
 
@@ -1571,7 +1571,7 @@ einzigen trockenen Stellen sind die Termitenhügel; an solchen Plätzen schaaren
 sich die Eingeborenen in Heerden zusammen wie wilde Thiere, und reiben sich
 einfach mit Asche ein, um sich vor der Kälte zu schützen.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption }
 ![Ein verhungernder Knabe des Kytschstammes, bettelnd.](Der_Albert_Nyanza_057.jpg "Ein verhungernder Knabe des Kytschstammes, bettelnd."){#b057}
 ::::
 
@@ -1605,7 +1605,7 @@ Eingeborenen an den Stier und sagen zu ihm: „er solle über die Heerde wachen,
 die Kühe vom Verirren abhalten und sie zu den süßesten Weideplätzen führen,
 damit sie reiche Milch gäben“ u. s. w.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Knaben, welche gebettelt haben.](Der_Albert_Nyanza_059.jpg "Knaben, welche gebettelt haben."){#b059}
 ::::
 

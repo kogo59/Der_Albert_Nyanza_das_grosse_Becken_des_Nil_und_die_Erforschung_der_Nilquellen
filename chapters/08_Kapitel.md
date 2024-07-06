@@ -1,6 +1,6 @@
-# <small>Achtes Kapitel.</small><br />Ibrahim's Rückkehr. {#acht .unnumbered}
+# <small>Achtes Kapitel.</small><br /> Ibrahim's Rückkehr. {#acht .unnumbered}
 
-::: justified
+::: { .justified  }
 
 Ibrahim kehrte von Gondokoro zurück und brachte einen großen Munitionsvorrath
 mit. Auch ein Verwundeter von Tschenuda's Leuten kam an, der einzige Ueberrest
@@ -510,7 +510,7 @@ Ranken etwa verlockt. Aus jeder Knospe auf dem Stengel entsteht ein etwas
 nierenförmiger Knollen; dieser wird immer größer, bis er, wenn er reif ist, die
 durchschnittliche Größe einer Kartoffel erreicht.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Kopfputz der Obbo (1) und Schoggo (2).](Der_Albert_Nyanza_210.jpg "Kopfputz der Obbo (1) und Schoggo (2)."){#b210}
 ::::
 
@@ -627,7 +627,7 @@ einfachen und im Benehmen *stets bescheidenen* Even befand, konnte ich nicht
 umhin, an die mosaische Beschreibung unserer ersten Eltern zu denken: „Und sie
 flochten Feigenblätter zusammen.“
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Frauen von Obbo.](Der_Albert_Nyanza_214.jpg "Frauen von Obbo."){#b214}
 ::::
 
@@ -708,7 +708,7 @@ besäße, welches sie mit den anderen Weibern auf gleichen Fuß stellen werde. I
 konnte sie nicht los werden, bis ich ihr die erste Pille gab, die mir aus der
 Arzneikiste in die Hand kam; sie ging vergnügt mit derselben hinweg.
 
-:::: { .wrap-70 } 
+:::: { .wrap-70 .caption  } 
 ![Katschiba's ältester Sohn.](Der_Albert_Nyanza_217.jpg "Katschiba's ältester Sohn."){#b217} 
 ::::
 
@@ -976,7 +976,7 @@ könne. Vergebens hatte meine Frau Einspruch erhoben und prophezeit, daß er den
 Hals brechen werde, wenn er versuche, das ihm bisher unbekannte Thier zu
 besteigen; er war zu reiten entschlossen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption }
 ![Katschiba und seine Hebe auf einer Reise.](Der_Albert_Nyanza_225.jpg "Katschiba und seine Hebe auf einer Reise."){#b225}
 ::::
 
@@ -1216,7 +1216,7 @@ mehreren Giraffen nur dreißig Fuß weit befand, so konnte ich doch nichts mache
 Jetzt nahm sie eine Masse dichter und verwirrter Dornen auf und beschloß das
 kaum streitige Wettrennen — ich war besiegt.
 
-:::: { .wrap-100 }
+:::: { .wrap-100  .caption   }
 ![Einholung der Giraffen.](Der_Albert_Nyanza_232.jpg "Einholung der Giraffen."){#b232}
 ::::
 

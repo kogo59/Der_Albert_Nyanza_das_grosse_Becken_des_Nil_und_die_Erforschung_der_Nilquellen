@@ -295,7 +295,7 @@ auf demselben Wege wieder zurück wie ein Hase. Der Elephant wandte sich den
 Hügel hinauf, lief in den Dschungel und gab die Verfolgung auf, wo ich bei einem
 nochmaligen Rennen von dreihundert Fuß verloren gewesen wäre.
 
-:::: { .wrap-100 }
+:::: { .wrap-100  .caption}
 ![Die letzte Ladung.](Der_Albert_Nyanza_184.jpg "Die letzte Ladung."){#b184}
 ::::
 
