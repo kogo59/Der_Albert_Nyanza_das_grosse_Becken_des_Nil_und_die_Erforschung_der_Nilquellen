@@ -123,8 +123,8 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 22. [Der Kriegstanz in Obbo.](ch011.xhtml#b254)
 23. [Mehedéhet-Antilope.](ch012.xhtml#b276)
 24. [Eingeborene von Lira (1) und Madi (2) im Lager zu Schoa.](ch012.xhtml#b280)
-25. Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei
-26. Die Abreise von M'ruli nach dem See mit Kamrasi's satanischer Bedeckung
+25. [Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei.](ch012.xhtml#b300)
+26. [Die Abreise von M'ruli nach dem See mit Kamrasi's satanischer Bedeckung.](ch013.xhtml#b318)
 27. Der Sturm auf dem Albertsee
 28. Der Baggera
 29. Lepidosiren annecteusss

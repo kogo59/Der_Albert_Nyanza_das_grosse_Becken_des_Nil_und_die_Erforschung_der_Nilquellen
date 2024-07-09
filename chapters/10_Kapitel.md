@@ -1151,6 +1151,10 @@ erklärte, daß ich augenblicklich in mein Vaterland zurückkehren würde, daß 
 einen Menschen, der so ganz und gar keine Lebensart habe, nicht sehen möge, und
 daß nie wieder ein weißer Mann sein Königreich besuchen werde.
 
+:::: { .wrap-100 .caption }
+![Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei.](Der_Albert_Nyanza_300.jpg "Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei."){#b300}
+::::
+
 „Die Wirkung war zauberhaft! Ich stand hastig auf, um fortzugehen. Die
 Häuptlinge baten flehentlich und erklärten, Kamrasi werde sie alle umbringen,
 wenn ich zurückginge. Um dieses Unglück zu verhindern, ließen sie insgeheim die
