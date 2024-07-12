@@ -125,9 +125,9 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 24. [Eingeborene von Lira (1) und Madi (2) im Lager zu Schoa.](ch012.xhtml#b280)
 25. [Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei.](ch012.xhtml#b300)
 26. [Die Abreise von M'ruli nach dem See mit Kamrasi's satanischer Bedeckung.](ch013.xhtml#b318)
-27. Der Sturm auf dem Albertsee
-28. Der Baggera
-29. Lepidosiren annecteusss
+27. [Der Sturm auf dem Albertsee.](ch013.xhtml#b342)
+28. [Der Baggera.](ch013.xhtml#b351a)
+29. [Lepidosiren annecteus.](ch013.xhtml#b351b)
 30. Die Bewillkommnung bei unserer Rückkehr nach dem Lager in Schoa
 31. Kopf des schwarzen Nashorns
 32. Der Häuptling des Lira-Stammes
