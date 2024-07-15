@@ -274,12 +274,5 @@ Vermächtniß an Erdreich auf den unfruchtbaren Sand niederlegend, bis das Delta
 geschaffen war; 
 
 
-S. 29
-
-
-
-
-
-
 :::
 
