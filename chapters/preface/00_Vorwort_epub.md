@@ -128,9 +128,9 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 27. [Der Sturm auf dem Albertsee.](ch013.xhtml#b342)
 28. [Der Baggera.](ch013.xhtml#b351a)
 29. [Lepidosiren annecteus.](ch013.xhtml#b351b)
-30. Die Bewillkommnung bei unserer Rückkehr nach dem Lager in Schoa
-31. Kopf des schwarzen Nashorns
-32. Der Häuptling des Lira-Stammes
+30. [Die Bewillkommnung bei unserer Rückkehr nach dem Lager in Schoa.](ch018.xhtml#b434)
+31. [Kopf des schwarzen Nashorns.](ch018.xhtml#b444)
+32. [Der Häuptling des Lira-Stammes.](ch018.xhtml#b445)
 33. Scharmützel mit den Eingeborene
 34. Das Becken des Nil zur Erläuterung von Baker's Reisen und Entdeckungen
 
