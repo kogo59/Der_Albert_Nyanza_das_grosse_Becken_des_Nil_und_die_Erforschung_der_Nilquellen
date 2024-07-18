@@ -445,8 +445,6 @@ diejenigen des Sudan; — die Eingeborenen ritten nie, sondern benutzten sie blo
 um Holz aus dem Walde nach ihren Dörfern zu schaffen; — die Menschen sollten der
 Sprache und äußeren Erscheinung nach dieselben sein wie der Lirastamm.
 
-
-
 :::
 
 :::: align-center
