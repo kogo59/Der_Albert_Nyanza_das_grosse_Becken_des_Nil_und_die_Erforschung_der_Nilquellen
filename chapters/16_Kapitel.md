@@ -453,7 +453,7 @@ Sprache und äußeren Erscheinung nach dieselben sein wie der Lirastamm.
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^1600]: [Siehe die Abbildung zu [S. 280.](ch012.xhtml#b280)]{.footnote}
+[^1600]: [Siehe die Abbildung zu [S. 280.](ch013.xhtml#b280)]{.footnote}
 
 [^1601]: [Ich muß bemerken, daß ich in dieser Periode der Expedition einen außerordentlichen Einfluß auf die Leute gewonnen hatte, der mich in den Stand setzte, eine Autorität zu zeigen, die das Leben vieler unglücklichen Geschöpfe rettete, die sonst als Opfer gefallen wären.]{.footnote}
 
