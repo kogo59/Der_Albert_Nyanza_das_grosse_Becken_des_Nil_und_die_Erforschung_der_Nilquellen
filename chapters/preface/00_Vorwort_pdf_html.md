@@ -92,46 +92,47 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 
 ::::
 
+
 :::: align-center
 ****
 ::::
 
 ## Verzeichniß der Illustrationen.
 
-1. Der Murchison-Wasserfall, vom Victoria-Nil oder Somerset-Fluß bis zum Niveau des Albertsees ungefähr 120 Fuß hoch. Titelkupfer (Vergl. S. 359.)
-2. Waffen, Geräthe und Instrumente verschiedener Stämme
-3. Nuehr-Eingeborene, die zu den Booten kommen
-4. Dschoctian, Häuptling des Nuehrstammesss
-5. Häuptling von Kytsch und Tochterrr
-6. Ein verhungernder Knabe des Kytschstammes, bettelnd
-7. Knaben, welche gebettelt habenn
-8. Ein Wohnsitz des Baristammes. — Die gewöhnliche Stellung der Männer
-9. Der Häuptling Legge
-10. Latuka'sche Grobschmiede
-11. Commoro, wie er zum Kampfe springt
-12. Bokké — Weib Moy's, Häuptlings von Latula
-13. Kopf eines Enterichs
-14. Karmoisinrothköpfige spornflügelige Gans
-15. Der Leichentanz der Latukas
-16. Die letzte Ladung
-17. Kopfputz der Obbo (^1^) und Schoggo (^2^)
-18. Frauen von Obbo
-19. Katschiba's ältester Sohn
-20. Katschiba und seine Hebe auf einer Reise
-21. Einholung der Giraffen
-22. Der Kriegstanz in Obboo.
-23. Mehedéhet-Antilope
-24. Eingeborene von Lira (^1^) und Madi (^2^) im Lager zu Schoa...
-25. Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei
-26. Die Abreise von M'ruli nach dem See mit Kamrasi's satanischer Bedeckung
-27. Der Sturm auf dem Albertsee
-28. Der Baggera
-29. Lepidosiren annecteusss
-30. Die Bewillkommnung bei unserer Rückkehr nach dem Lager in Schoa
-31. Kopf des schwarzen Nashorns
-32. Der Häuptling des Lira-Stammes
-33. Scharmützel mit den Eingeborene
-34. Das Becken des Nil zur Erläuterung von Baker's Reisen und Entdeckungen
+1. [Der Murchison-Wasserfall, vom Victoria-Nil oder Somerset-Fluß bis zum Niveau des Albertsees ungefähr 120 Fuß hoch.](#b001) Titelkupfer (Vergl. S. 359.)
+2. [Waffen, Geräthe und Instrumente verschiedener Stämme.](#b008)
+3. [Nuehr-Eingeborene, die zu den Booten kommen.](#b050)
+4. [Dschoctian, Häuptling des Nuehrstammes.](#b051)
+5. [Häuptling von Kytsch und Tochter.](#b056)
+6. [Ein verhungernder Knabe des Kytschstammes, bettelnd.](#b057)
+7. [Knaben, welche gebettelt haben.](#b059)
+8. [Ein Wohnsitz des Baristammes. — Die gewöhnliche Stellung der Männer.](#b068)
+9. [Der Häuptling Leggé.](#b124)
+10. [Latuka'sche Grobschmiede.](#b142)
+11. [Commoro, wie er zum Kampfe springt.](#b147)
+12. [Bokké — Weib Moy's, Häuptlings von Latuka.](#b150)
+13. [Kopf eines Enterichs.](#b164)
+14. [Karmoisinrothköpfige spornflügelige Gans.](#b165)
+15. [Der Leichentanz der Latukas.](#b168)
+16. [Die letzte Ladung.](#b184)
+17. [Kopfputz der Obbo (1) und Schoggo (2).](#b210)
+18. [Frauen von Obbo.](#b214)
+19. [Katschiba's ältester Sohn.](#b217)
+20. [Katschiba und seine Hebe auf einer Reise.](#b225)
+21. [Einholung der Giraffen.](#b232)
+22. [Der Kriegstanz in Obbo.](#b254)
+23. [Mehedéhet-Antilope.](#b276)
+24. [Eingeborene von Lira (1) und Madi (2) im Lager zu Schoa.](#b280)
+25. [Meine Prüfung durch die Häuptlinge beim Einzug in Unyoro. — Beschlossen, daß ich „Speke's Bruder“ sei.](#b300)
+26. [Die Abreise von M'ruli nach dem See mit Kamrasi's satanischer Bedeckung.](#b318)
+27. [Der Sturm auf dem Albertsee.](#b342)
+28. [Der Baggera.](b351a)
+29. [Lepidosiren annecteus.](#b351b)
+30. [Die Bewillkommnung bei unserer Rückkehr nach dem Lager in Schoa.](#b434)
+31. [Kopf des schwarzen Nashorns.](#b444)
+32. [Der Häuptling des Lira-Stammes.](#b445)
+33. [Scharmützel mit den Eingeborenen.](#b454)
+34. [Das Becken des Nil zur Erläuterung von Baker's Reisen und Entdeckungen.](#b500)
 
 :::: align-right
 Am Ende
@@ -271,8 +272,85 @@ Wasserfaden gespalten. Jahrtausende zuvor, ehe der Mensch in diesem
 unwirthlichen Lande leben konnte, war jener Wasserfaden bei seiner stillen
 Arbeit; unzählige Jahre hindurch überfluthete und fiel er, ein reiches
 Vermächtniß an Erdreich auf den unfruchtbaren Sand niederlegend, bis das Delta
-geschaffen war; 
+geschaffen war; der Mensch nahm, in einer so fernen Zeitperiode, daß wir keinen
+Leitfaden zu einer annähernden Bestimmung haben, den auf diese Weise aus dem
+Nilstrom geborenen fruchtbaren Boden in Besitz, und jener von seiner
+Unfruchtbarkeit befreite Winkel des wilden Afrika wurde Aegypten und nahm den
+ersten Rang in der Weltgeschichte ein.
 
+Um dieses außerordentliche Land hat die Menschheit immer gestritten und wird
+noch immer streiten.
+
+Von der persischen Eroberung an bis auf den heutigen Tag war Aegypten, obgleich
+der Schauplatz beständigen Streites, doch ein Beispiel fast ununterbrochener
+Fruchtbarkeit. Seine geographische Lage gewährte besondere Vortheile für
+Handelsunternehmungen. Im Osten vom Rothen, im Norden vom Mittelländischen Meere
+begrenzt, während der befruchtende Nil binnenländischen Verkehr ermöglichte,
+wurde Aegypten das glücklichste und civilisirteste Land der Erde. Aegypten ward
+nicht nur durch den Nil geschaffen, sondern es hing auch die wirkliche Existenz
+seiner Einwohner von der jährlichen Ueberschwemmung dieses Stromes ab: daher war
+Alles, was sich auf den Nil bezog, eine Lebensfrage für das Volk; er war die
+Hand, die es ernährte.
+
+Da Aegypten so ganz und gar von dem Flusse abhing, so war es natürlich, daß der
+Ursprung dieser geheimnißvollen Wasser die Aufmerksamkeit denkender Menschen auf
+sich zog. Er war allen anderen Flüssen unähnlich. Im Juli und August, wo die
+europäischen Ströme bei der Sommerhitze ihren niedrigsten Wasserstand hatten,
+hatte der Nil Hochwasser! In Aegypten fiel kein Regen — nicht einmal ein Tropfen
+Thau war in jenen versengten Wüsten zu sehen, durch welche der herrliche Fluß
+860 Breitenmeilen lang ohne einen Nebenfluß dahinströmte. Von der brennenden
+Sonne aufgeleckt und von dem erschöpfenden Sande der nubischen Wüsten
+verschluckt, alle Verluste durch Verdunstung und Einsaugung aushaltend,
+schüttete der edle Strom alljährlich seinen Segen über Aegypten aus. Eine
+Regelwidrigkeit unter den Flüssen; in der trockensten Jahreszeit mit Hochwasser;
+ausdauernd in sandigen Wüsten; wo war sein Ursprung? Wo waren die Quellen des
+Nil?
+
+Dies war seit der frühesten Zeit die zu lösende große geographische Frage.
+
+Bei der vorgerückten Stufe der Civilisation des gegenwärtigen Zeitalters blicken
+wir mit Bedauern auf die Thatsache, daß die schönsten Theile der Erde — Länder,
+welche durch die Natur und die geographische Lage so begünstigt sind, daß sie in
+den frühen Tagen der Weltgeschichte die Stellen waren, nach welchen den Menschen
+am meisten gelüstete — sich im Besitz der Moslemen befinden, und daß solche
+begünstigte Plätze durch die moslemische Herrschaft an dem Fortschritt gehindert
+werden, der andere, von Natur zur Entwickelung weniger geeignete Länder
+begleitet hat. Es giebt auf der Erde keine Länder, die so werthvoll wären, oder
+die in der Völkerfamilie eine so bedeutende Stellung einnehmen würden, wie die
+europäische Türkei, Kleinasien und Aegypten unter einer civilisirten und
+christlichen Regierung.
+
+Als die große Straße nach Indien ist Aegypten für die Engländer das wichtigste
+Land. Da es seine außerordentliche Fruchtbarkeit ganz dem Nil verdankt, so
+glaube ich mein Scherflein zu dem Schatze wissenschaftlicher Kenntniß
+beigetragen zu haben, indem ich die Entdeckung der Quellen dieses wunderbaren
+Flusses vollendet und dadurch nach dem Herzen Afrikas einen Weg geöffnet habe,
+der, wenn er auch in unserer beschränkten Fernsicht dunkel ist, doch in irgend
+einer zukünftigen Zeit der Weg zur Civilisation werden kann.
+
+Ich biete der Welt die Erzählung meiner mehrjährigen Mühseligkeiten und
+Beschwerden dar, die glücklicherweise nicht vergebens auf dieses große
+Unternehmen verwendet worden sind. Sollten etwa ehrgeizlose Geister meinen, die
+Ergebnisse seien kaum werth, daß man ihnen die besten Jahre seines, auf diese
+Weise der Verbannung und dem Leiden gewidmeten Lebens opfere, so mögen sie sich
+erinnern, daß „wir eine gewisse Zeit lang auf die Erde gestellt sind, um unseren
+verschiedenen Verhältnissen und Geistesgraden gemäß diejenigen Pflichten zu
+erfüllen, durch welche die Weltgeschichte fortgesetzt wird.“^[^0001]^ 
 
 :::
+
+:::: align-center
+****
+::::
+
+:::: { .wrap-70 .break-after }
+![Waffen, Geräthe und Instrumente verschiedener Stämme.](Der_Albert_Nyanza_008.jpg "Waffen, Geräthe und Instrumente verschiedener Stämme."){#b008}
+::::
+
+
+
+
+#### **Anmerkungen** {.break-before .unnumbered}
+
+[^0001]: [E. L. Bulwer's Life, Literature, and Manners.]{.footnote}
 

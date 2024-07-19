@@ -132,7 +132,7 @@ fernen Wildniß in Central-Aequatorial-Afrika liegen die Quellen des Nil.
 31. [Kopf des schwarzen Nashorns.](ch019.xhtml#b444)
 32. [Der Häuptling des Lira-Stammes.](ch019.xhtml#b445)
 33. [Scharmützel mit den Eingeborenen.](ch020.xhtml#b454)
-34. Das Becken des Nil zur Erläuterung von Baker's Reisen und Entdeckungen
+34. [Das Becken des Nil zur Erläuterung von Baker's Reisen und Entdeckungen.](ch022.xhtml#b500)
 
 :::: align-right
 Am Ende
