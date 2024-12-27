@@ -428,12 +428,6 @@ Thiere gab.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [red pepper.]{.footnote}
 

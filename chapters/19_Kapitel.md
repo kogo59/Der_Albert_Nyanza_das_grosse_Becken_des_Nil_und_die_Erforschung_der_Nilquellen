@@ -722,10 +722,6 @@ meine Arbeit gethan war.
 ![&nbsp;](Becken_des_Nils_map.jpg ""){#b500}
 ::::
 
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1900]: [„Oriental and Egyptian Trading Country.“]{.footnote}
 
 [^1901]: [Der Wassermangel im blauen Nil, wie ich ihn hier beschrieben habe, ist ein Beweis für die Richtigkeit der Ansicht, daß Unterägypten seine Existenz den größeren Theil des Jahres hindurch der Wassermasse des weißen Nil verdankt.]{.footnote}

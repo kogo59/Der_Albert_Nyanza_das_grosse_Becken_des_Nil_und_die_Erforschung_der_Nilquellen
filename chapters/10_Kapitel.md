@@ -1626,13 +1626,6 @@ und seine Mittel den Umständen anpassen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1000]: [1 Handbreite = 4 Zoll.]{.footnote}
 
 [^1001]: [Ein Platz in London mit Nelson's Denkmal. *Anm. d. Uebers.*]{.footnote}

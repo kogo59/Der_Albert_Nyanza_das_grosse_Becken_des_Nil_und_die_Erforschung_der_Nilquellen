@@ -589,11 +589,6 @@ Polynesiens vergleicht.“^[^1802]^
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1800]: [Die Bastonnade ist eine Strafe der Türken, bei welcher der Verbrecher Schläge auf die Fußsohlen bekommt. *Anm. d. Uebers.*]{.footnote}
 

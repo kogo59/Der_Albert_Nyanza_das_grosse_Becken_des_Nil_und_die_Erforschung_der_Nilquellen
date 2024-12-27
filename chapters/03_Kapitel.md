@@ -684,11 +684,6 @@ März 1863 an.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [Hartebeest oder cap'scher Hirsch.]{.footnote}
 

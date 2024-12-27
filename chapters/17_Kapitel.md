@@ -438,10 +438,4 @@ dann?“
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1700]: [Siehe S. 12, Note.]{.footnote}

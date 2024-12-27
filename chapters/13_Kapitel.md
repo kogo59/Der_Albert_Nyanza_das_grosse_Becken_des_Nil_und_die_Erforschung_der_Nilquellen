@@ -502,11 +502,5 @@ Haufen Menschen empfangen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [Légumes à la sauce piquante.]{.footnote}

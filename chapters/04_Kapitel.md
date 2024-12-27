@@ -795,10 +795,4 @@ vergiftete Pfeile.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0400]: [Ein großer Saal in London, in welchem unter Anderm auch die Missionare ihre Versammlungen und Reden halten. *Anm. d. Uebers.*]{.footnote}

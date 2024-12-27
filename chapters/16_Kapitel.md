@@ -447,11 +447,6 @@ Sprache und äußeren Erscheinung nach dieselben sein wie der Lirastamm.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1600]: [Siehe die Abbildung zu [S. 280.](ch013.xhtml#b280)]{.footnote}
 

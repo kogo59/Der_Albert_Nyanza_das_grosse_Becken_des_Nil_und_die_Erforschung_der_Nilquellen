@@ -1878,13 +1878,6 @@ freuten sich der Freiheit, im Freien weiden zu können.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [Dolmetscher der Europäer im Orient. *Anm. d. Uebers.*]{.footnote}
 

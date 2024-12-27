@@ -1233,12 +1233,6 @@ Kamrasi der Eroberer bekannt werden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1500]: [„Wait a bit“ thorns.]{.footnote}
 
 [^1501]: [Whisky ist eine Art Kornbranntwein. *Anm. d. Uebers.*]{.footnote}

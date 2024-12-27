@@ -1285,10 +1285,4 @@ bereit, ihre schwächeren Nachbarn zu plündern und zu Sclaven zu machen.“
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0500]: [Eine Münze.]{.footnote}

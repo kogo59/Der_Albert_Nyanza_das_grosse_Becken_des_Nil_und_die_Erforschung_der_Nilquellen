@@ -997,13 +997,6 @@ geschwächt und müssen zu Fuße reisen.“
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0900]: [*Thomas Moore,* Lalla Rookh. Das Paradies und die Peri.]{.footnote}
 
 [^0901]: [S. Abbildung [S. 8.](ch003.xhtml#b008)]{.footnote}

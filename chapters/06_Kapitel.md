@@ -341,10 +341,5 @@ bei ihrem reinen Futter bleiben.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [Die Eingeborenen bringen das Feuer stets dadurch hervor, daß sie zwei Stöcke an einander reiben.]{.footnote}
