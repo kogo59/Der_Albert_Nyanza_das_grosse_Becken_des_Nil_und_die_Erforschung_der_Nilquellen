@@ -347,10 +347,5 @@ erfüllen, durch welche die Weltgeschichte fortgesetzt wird.“^[^0001]^
 ![Waffen, Geräthe und Instrumente verschiedener Stämme.](Der_Albert_Nyanza_008.jpg "Waffen, Geräthe und Instrumente verschiedener Stämme."){#b008}
 ::::
 
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [E. L. Bulwer's Life, Literature, and Manners.]{.footnote}
 
